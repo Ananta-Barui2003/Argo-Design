@@ -1,0 +1,636 @@
+/* ==========================1366px end======================== */
+@media only screen and (max-width: 1366px) {
+    .fresh_product {
+        overflow: hidden;
+    }
+    .fresh_product .all_fresh_fruit3 {
+        right: -80px;
+    }
+/* ==========================1366px end======================== */
+}
+
+/* ==========================1280px end======================== */
+@media only screen and (max-width: 1280px) {
+    .fresh_product {
+        overflow: hidden;
+    }
+    .fresh_product .prod_baner {
+        overflow: hidden;
+    }
+    .fresh_product .all_fresh_fruit3 {
+        right: -65px;
+    }
+/* ==========================1280px end======================== */
+}
+
+/* ==========================1024px start======================== */
+@media only screen and (max-width: 1024px) {
+    .fresh_product .all_fresh_fruit3 {
+        right: 0;
+    }
+    .fresh_product .titel h2 {
+        font-size: 135px;
+        line-height: 1.2;
+    }
+/* ==========================1024px end======================== */
+}
+
+/* ==========================991px start======================== */
+@media only screen and (max-width: 991px) {
+    .header .main_nav .menu .menu_bar {
+        display: block;
+        position: absolute;
+        top: 130px;
+        left: -100%;
+        width: 100%;
+        height: 100vh;
+        text-align: center;
+        background: #e4e261f5;
+        z-index: 1;
+        transition: 0.5s;
+        padding: 50px;
+    }
+    .header .main_nav .menu .menu_bar li {
+        padding: 15px 0;
+    }
+    .header .main_nav .menu .menu_bar li a {
+        display: block;
+        font-size: 15px;
+        text-transform: uppercase;
+        font-weight: 800;
+    }
+    .header .main_nav .menu .menu_bar li a::after {
+        background: #ff6262;
+    }
+    .header .main_nav .menu .menu_bar li a.active::after {
+        width: 40%;
+    }
+    .header .main_nav .menu .menu_bar li a:hover::after {
+        width: 40%;
+    }
+    .header .main_nav .menu .menu_bar li a:hover, .header .main_nav .menu .menu_bar li a.active {
+        color: #ff6262;
+    }
+    .toggle_btn #op_btn {
+        display: block;
+    }
+
+
+    .banner .slide_box .banner_img img {
+        height: auto;
+    }
+    .banner .slide_box .banner_content .titel_wrap .text h1 {
+        font-size: 100px;
+        line-height: 1.2;
+    }
+    .banner .slide_box2 .banner_content .text h1 {
+        font-size: 60px;
+        line-height: 1.2;
+    }
+    .banner .slide_box2 .banner_content .text p {
+        margin-bottom: 25px;
+        margin-top: 5px;
+    }
+    .banner .slide_box2 .banner_img img {
+        height: auto;
+    }
+    .banner .slide_box2:nth-child(4) .banner_content .text {
+        padding-left: 0;
+    }
+    .banner .slide_box .banner_content .titel_wrap .video_btn a {
+        width: 100px;
+        height: 100px;
+    }
+    .banner .slide_box .banner_content .titel_wrap .video_btn a span {
+        padding: 26px 29px;
+    }
+
+    .farm_product .wraper {
+        row-gap: 35px;
+    }
+    .farm_product {
+        margin-top: 45px;
+    }
+    .farm_product .left_inner {
+        width: 100%;
+        text-align: center;
+    }
+    .farm_product .left_inner .icon {
+        margin: 0 auto;
+    }
+    .farm_product .left_inner h2 {
+        margin-top: 20px;
+    }
+    .farm_product .right_inner {
+        width: 100%;
+    }
+
+    .fresh_product {
+        margin-top: 50px;
+    }
+    .fresh_product .titel h2 {
+        font-size: 100px;
+    }
+    .fresh_product .prod_baner {
+        padding: 50px 0;
+        padding-left: 20px;
+    }
+    .fresh_product .all_fresh_fruit2 {
+        left: 0;
+        max-width: 250px;
+    }
+    .fresh_product .all_fresh_fruit {
+        top: -70px;
+        left: -70px;
+    }
+    .fresh_product .all_fresh_fruit2 img {
+        width: 100%;
+    }
+    .fresh_product .all_fresh_fruit3 {
+        max-width: 350px;
+    }
+    .fresh_product .all_fresh_fruit3 img {
+        width: 100%;
+    }
+    .farm_progress {
+        margin-top: 120px;
+    }
+    .farm_progress .titel {
+        margin-bottom: 40px;
+    }
+    .farm_progress .inner .wrap_box .count_icon {
+        max-width: 80px;
+    }
+    .farm_progress .inner .wrap_box .count_text h2 {
+        font-size: 40px;
+        line-height: 1.2;
+        margin-bottom: 5px;
+    }
+
+    .fruit_gallery {
+        margin-top: 50px;
+    }
+    .fruit_gallery .wraper {
+        row-gap: 30px;
+    }
+    .fruit_gallery .gall_inner {
+        width: 50%;
+    }
+
+    .people_says {
+        padding: 60px 0;
+    }
+    .people_says .titel {
+        margin-bottom: 30px;
+    }
+    .people_says .people_slide::before {
+        font-size: 90px;
+        line-height: 56px;
+        left: -10px;
+    }
+    .people_says .people_slide .people_box .revw_text {
+        padding-left: 40px;
+    }
+    .people_says .people_slide .people_detl {
+        padding-left: 40px;
+    }
+    .people_says .people_slide .people_box .revw_text p {
+        font-size: 22px;
+    }
+    .people_says .people_slide .people_detl .peop_img {
+        max-width: 60px;
+    }
+    .blog_post {
+        margin-top: 45px;
+    }
+    .blog_post .food_inner .food_detl {
+        padding: 20px 15px 0;
+    }
+    .our_patner {
+        margin: 50px 0;
+    }
+    .form_map .left {
+        width: 100%;
+        padding: 30px 0;
+    }
+    .form_map .left .inner {
+        max-width: 100%;
+        padding: 0 50px;
+    }
+    .form_map .left .inner h2 {
+        line-height: 1.2;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .form_map .right {
+        width: 100%;
+    }
+    .form_map .right .map iframe {
+        height: 350px;
+    }
+    .footer {
+        padding-top: 45px;
+    }
+    .footer .wraper {
+        row-gap: 35px;
+    }
+    .footer .foot_inner:first-child {
+        order: 1;
+        width: 50%;
+    }
+    .footer .foot_inner:nth-child(2) {
+        order: 3;
+        width: 50%;
+    }
+    .footer .foot_inner:nth-child(3) {
+        order: 4;
+        width: 50%;
+    }
+    .footer .foot_inner:last-child {
+        order: 2;
+        width: 50%;
+    }
+/* ==========================991px end======================== */
+}
+
+/* ==========================767px start======================== */
+@media only screen and (max-width: 767px) {
+    .fruit_promo {
+        margin: 0;
+    }
+    .banner .slide_box .banner_content .titel_wrap .text {
+        width: 100%;
+        text-align: center;
+    }
+    .banner .slide_box .banner_content .titel_wrap .video_btn {
+        width: 100%;
+        text-align: left;
+    }
+    .banner .slide_box .banner_content .titel_wrap .video_btn a {
+        width: 80px;
+        height: 80px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .banner .slide_box .banner_content .titel_wrap .video_btn a span {
+        font-size: 18px;
+        padding: 18px 21px;
+    }
+    .banner .slide_box2 .banner_content .text {
+        text-align: center;
+    }
+    .banner .slide_box2 .banner_content .text h1 {
+        font-size: 52px;
+    }
+    .banner .slide_box2 .banner_content .text p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .fruit_promo .main_box .fruit_img2 {
+        top: inherit;
+        bottom: 0;
+        transform: translateY(0);
+        max-width: 390px;
+    }
+    .fruit_promo .main_box .fruit_img2::before {
+        width: 250px;
+        height: 250px;
+    }
+    .farm_product .left_inner h2 {
+        font-size: 34px;
+        line-height: 1.2;
+        margin-bottom: 15px;
+    }
+    .farm_product .right_inner .wrap {
+        row-gap: 25px;
+    }
+    .fresh_product .titel {
+        margin-bottom: 100px;
+    }
+    .fresh_product .titel h2 {
+        font-size: 75px;
+    }
+    .fresh_product .prod_baner {
+        padding-left: 15px;
+    }
+    .fresh_product .prod_baner h2 {
+        font-size: 34px;
+        line-height: 1.2;
+    }
+    .fresh_product .all_fresh_fruit3 {
+        top: -70px;
+        max-width: 250px;
+    }
+    .fresh_product .all_fresh_fruit3 img {
+        width: 100%;
+    }
+    .farm_progress .titel h2 {
+        font-size: 34px;
+        line-height: 1.2;
+    }
+    .farm_progress .titel p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .farm_progress .inner .wrap_box {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+    .farm_progress .inner .wrap_box .count_text {
+        text-align: center;
+        padding-left: 0;
+    }
+    .farm_progress .inner .wrap_box .count_text h2 {
+        font-size: 32px;
+    }
+    .fruit_gallery {
+        margin-top: 40px;
+    }
+    .people_says .titel h2 {
+        font-size: 34px;
+        line-height: 1.2;
+    }
+    .people_says .titel p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .people_says .people_slide .people_box .revw_text {
+        text-align: center;
+        padding-left: 20px;
+    }
+    .people_says .people_slide .people_detl {
+        padding-left: 20px;
+    }
+    .people_says .people_slide .slick-dots {
+        right: 0;
+    }
+    .argo_fruit .item_box {
+        width: 100%;
+    }
+    .argo_fruit .item_box:first-child {
+        padding-bottom: 35px;
+    }
+    .argo_fruit .argo_logo {
+        top: inherit;
+        bottom: 0;
+    }
+    .blog_post .titel {
+        margin-bottom: 30px;
+    }
+    .blog_post .titel h2 {
+        font-size: 34px;
+        line-height: 1.2;
+        margin-bottom: 10px;
+    }
+    .blog_post .titel p {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .blog_post .wraper {
+        row-gap: 30px;
+    }
+    .blog_post .food_inner {
+        width: 100%;
+    }
+    .our_patner .patner_slide {
+        row-gap: 30px;
+        justify-content: center;
+    }
+    .our_patner .patner_slide .logo_box {
+        width: 33.33%;
+    }
+    .form_map .left .inner h2 {
+        font-size: 34px;
+    }
+    .form_map .left .inner {
+        padding: 0 20px;
+    }
+    .form_map .left .inner .form .subm_btn {
+        text-align: center;
+    }
+    .form_map .left .inner .form .subm_btn input {
+        max-width: 250px;
+    }
+    .copy_right {
+        padding: 20px 0;
+    }
+    .copy_right .box_detl {
+        width: 100%;
+        text-align: center;
+    }
+/* ==========================767px end======================== */
+}
+
+/* ==========================575px start======================== */
+@media only screen and (max-width: 575px) {
+    .banner .slide_box .banner_content .titel_wrap {
+        row-gap: 30px;
+    }
+    .banner .slide_box .banner_content .titel_wrap .text h1 {
+        font-size: 65px;
+    }
+    .people_says .people_slide .people_box .revw_text p {
+        font-size: 20px;
+    }
+    .fruit_promo .main_box .fruit_img2 {
+        position: relative;
+        max-width: 100%;
+    }
+    .fruit_promo .main_box .fruit_img2::before {
+        display: none;
+    }
+    .fruit_promo .main_box .fruit_img1 {
+        padding-bottom: 30px;
+    }
+/* ==========================575px end======================== */
+}
+
+/* ==========================480px start======================== */
+@media only screen and (max-width: 480px) {
+    .header .main_nav .logo {
+        max-width: 60px;
+    }
+    .header .main_nav .menu .menu_bar {
+        top: 78px;
+    }
+    .header .main_nav .menu .buton {
+        display: none;
+    }
+    .banner .slide_box .banner_content .titel_wrap {
+        row-gap: 30px;
+    }
+    .banner .slide_box .banner_content .titel_wrap .text h1 {
+        font-size: 60px;
+    }
+    .banner .slide_box2 .banner_img img, .banner .slide_box .banner_img img {
+        height: 360px;
+    }
+    .banner .slide_box2 .banner_content .text h1 {
+        font-size: 40px;
+    }
+    .banner .slide_box2 .banner_content .text span {
+        font-size: 30px;
+    }
+    .banner .slide_box2:nth-child(4) .banner_content .text p {
+        font-size: 15px;
+    }
+    .banner .slide_box2 .banner_content .text .buton a {
+        padding: 12px 50px;
+    }
+    .banner .bnr_slide .slick-dots li button {
+        width: 10px;
+        height: 10px;
+    }
+    .banner .bnr_slide .slick-dots li button:hover, .banner .bnr_slide .slick-dots .slick-active button {
+        width: 20px;
+        height: 10px;
+    }
+    .banner .slide_box .banner_content .titel_wrap .video_btn a {
+        width: 70px;
+        height: 70px;
+    }
+    .banner .slide_box .banner_content .titel_wrap .video_btn a span {
+        padding: 14px 18px;
+    }
+    .farm_product .left_inner h2 {
+        font-size: 26px;
+    }
+    .farm_product .right_inner .item_box {
+        width: 50%;
+    }
+    .fresh_product .titel {
+        margin-bottom: 80px;
+    }
+    .fresh_product .titel h2 {
+        font-size: 52px;
+    }
+    .fresh_product .all_fresh_fruit2 {
+        left: -50px;
+        bottom: -50px;
+        max-width: 160px;
+    }
+    .fresh_product .all_fresh_fruit2 img {
+        width: 100%;
+    }
+    .fresh_product .all_fresh_fruit {
+        top: -40px;
+        max-width: 160px;
+    }
+    .fresh_product .all_fresh_fruit img {
+        width: 100%;
+    }
+    .fresh_product .all_fresh_fruit3 {
+        top: -35px;
+        max-width: 120px;
+    }
+    .fresh_product .prod_baner {
+        text-align: center;
+        padding: 40px 10px;
+    }
+    .fresh_product .prod_baner h2 {
+        font-size: 28px;
+    }
+    .fresh_product .prod_baner p {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .farm_progress {
+        margin-top: 80px;
+    }
+    .farm_progress .titel h2 {
+        font-size: 28px;
+    }
+    .farm_progress .titel p {
+        font-size: 15px;
+    }
+    .farm_progress .wraper {
+        row-gap: 30px;
+    }
+    .farm_progress .inner {
+        width: 100%;
+    }
+    .fruit_gallery .gall_inner {
+        width: 100%;
+    }
+    .people_says {
+        padding: 45px 0;
+    }
+    .people_says .titel h2 {
+        font-size: 26px;
+    }
+    .people_says .titel p {
+        font-size: 15px;
+    }
+    .people_says .people_slide .people_box .revw_text {
+        padding-left: 0;
+    }
+    .people_says .people_slide .people_box .revw_text p {
+        font-size: 20px;
+        line-height: 1.4;
+    }
+    .people_says .people_slide .people_detl {
+        padding-left: 0;
+    }
+    .people_says .people_slide .people_detl .peop_name {
+        padding-left: 10px;
+    }
+    .people_says .people_slide .people_detl .peop_name h5 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .people_says .people_slide .slick-dots li {
+        width: 10px;
+        height: 10px;
+    }
+    .people_says .people_slide .slick-dots li li button {
+        width: 10px;
+        height: 10px;
+    }
+    .people_says .people_slide .slick-dots li button::before {
+        width: 6px;
+        height: 6px;
+    }
+    .argo_fruit .argo_logo {
+        max-width: 50px;
+    }
+    .blog_post .titel h2 {
+        font-size: 26px;
+    }
+    .blog_post .titel p {
+        font-size: 15px;
+    }
+    .our_patner .patner_slide .logo_box {
+        width: 100%;
+    }
+    .form_map .left .inner {
+        padding: 0 15px;
+    }
+    .form_map .right .argo_logo {
+        max-width: 50px;
+    }
+    .form_map .left .inner h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    .form_map .left .inner .form .subm_btn input {
+        padding: 14px 0;
+    }
+    .footer .foot_inner {
+        text-align: center !important;
+    }
+    .footer .foot_inner:first-child, .footer .foot_inner:nth-child(2), 
+    .footer .foot_inner:nth-child(3), .footer .foot_inner:last-child {
+        width: 100%;
+    }
+    .footer .foot_inner:first-child .foot_logo {
+        max-width: 80px;
+        margin: 0 auto;
+    }
+    .footer .foot_inner .all_menu {
+        justify-content: center;
+    }
+    .footer .foot_inner:nth-child(3) .social {
+        justify-content: center;
+    }
+/* ==========================480px end======================== */
+}
